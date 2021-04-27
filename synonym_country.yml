@@ -1,0 +1,1182 @@
+version: "2.0"
+nlu:
+- synonym: AFGHANISTAN
+  examples: |
+    - afghani
+    - afghan
+    - islamic state of afghanistan
+    - afgan
+    - afgani
+    - afghan
+    - afganistan
+    - afghanistan
+- synonym: ALAND ISLANDS
+  examples: |
+    - Åland Islands
+    - Åland
+- synonym: ALBANIA
+  examples: |
+    - Shqipëria
+    - albanian
+    - albanie
+    - albanians
+    - Albania, Republic of Albania
+    - Republic of Albania
+- synonym: ALGERIA
+  examples: |
+    - Democratic and Popular Republic of Algeria
+    - algerian
+    - algiers
+    - algérie
+    - الجزائر
+- synonym: AMERICAN SAMOA
+  examples: |
+    - Eastern Samoa
+    - Samoa
+- synonym: ANDORRA
+  examples: |
+    - Principality of Andorra
+    - andorran
+    - andor
+    - andorra
+- synonym: ANGOLA
+  examples: |
+    - Republic of Angola
+    - angolan
+    - angolans
+- synonym: ANGUILLA
+  examples: |
+    - Anguilla
+    - genus Anguilla
+    - anguillan
+- synonym: ANTARCTICA
+  examples: |
+    - Antártico
+    - Antarctique
+    - Антарктике
+    - Antarctic continent
+    - antarctic
+- synonym: ANTIGUA
+  examples: |
+    - Antigua and Barbuda
+    - Barbuda
+- synonym: ARGENTINA
+  examples: |
+    - Argentine Republic
+    - genus Argentina
+    - argentine
+    - argentinean
+    - argentinian
+    - argentino
+- synonym: ARMENIA
+  examples: |
+    - Republic of Armenia
+    - Hayastan
+    - armenian
+    - arminia
+    - Հայաստան
+- synonym: ARUBA
+  examples: |
+    - aruban
+- synonym: AUSTRALIA
+  examples: |
+    - Commonwealth of Australia
+    - Sahul
+    - land down under
+    - Terra Australis
+    - Aussieland
+    - Meganesia
+    - australian
+    - australie
+- synonym: AUSTRIA 
+  examples: |
+    - Österreich
+    - Oesterreich
+    - Republic of Austria
+    - austrian
+    - autriche
+    - austrians
+- synonym: AZERBAIJAN
+  examples: |
+    - Azerbaijani Republic
+    - Azerbajdzhan
+    - Azerbajdzhan Republic
+    - azerbaijani
+    - azerbaidjan
+    - azeri
+    - azerbaïdjan
+    - azarbaijan
+    - azerbaijanis
+    - Azərbaycan
+- synonym: BAHAMAS
+  examples: |
+    - Commonwealth of The Bahamas
+    - Bahama Islands
+    - bahamian
+    - bahama
+- synonym: BAHRAIN
+  examples: |
+    - البحرين
+    - Bahrain Island
+    - Bahrein
+    - Bahrein Island
+    - State of Bahrain
+    - bahraini
+    - bahrein
+- synonym: BANGLADESH
+  examples: |
+    - People's Republic of Bangladesh
+    - Bangla Desh
+    - East Pakistan
+    - bangladeshi
+    - bangladeshis
+    - bengal
+    - গণপ্রজাতন্ত্রী বাংলাদেশ
+- synonym: BARBADOS
+  examples: |
+    - barbadian
+- synonym: BELARUS
+  examples: |
+    - Republic of Belarus
+    - Byelarus
+    - Byelorussia
+    - Belorussia
+    - White Russia
+    - Беларусь
+- synonym: BELGIUM
+  examples: |
+    - België
+    - Belgique
+    - Belgien
+    - Kingdom of Belgium
+    - belgian
+    - belge
+- synonym: BELIZE
+  examples: |
+    - British Honduras
+    - belizean
+    - blaise
+- synonym: BENIN
+  examples: |
+    - Republic of Benin
+    - Dahomey
+    - bénin
+    - beninese
+    - benign
+- synonym: BERMUDA
+  examples: |
+    - Bermudas
+    - bermudian
+- synonym: BHUTAN
+  examples: |
+    - Kingdom of Bhutan
+    - bhutanese
+    - འབྲུག་ཡུལ
+- synonym: BOLIVIA
+  examples: |
+    - Republic of Bolivia
+    - bolivian
+    - bolivians
+    - boliviana
+    - Plurinational State of Bolivia
+    - Bulibiya
+    - Volívia
+    - Wuliwya
+- synonym: BONAIRE
+  examples: |
+    - Sint Eustatius and Saba
+    - Caribisch Nederland
+- synonym: BOSNIA
+  examples: |
+    - Bosnia and Herzegovina
+    - Republic of Bosnia and Herzegovina
+    - Bosna i Hercegovina
+    - Bosnia-Herzegovina
+    - Bosnia
+    - bosnian
+    - bosnia-hercegovina
+    - bosna
+    - bosniac
+    - bosnia-herzegovina
+    - bosniak
+    - Herzegovina
+    - hercegovina
+- synonym: BOTSWANA
+  examples: |
+    - Republic of Botswana
+    - batswana
+- synonym: BOUVET ISLAND
+  examples: |
+    - Bouvetøya
+    - BOUVET
+- synonym: BRAZIL
+  examples: |
+    - Federative Republic of Brazil
+    - Brasil
+    - brazilian
+    - brasil
+    - brasilia
+    - brésil
+- synonym: BRITISH INDIAN
+  examples: |
+    - British Indian Ocean Territory
+- synonym: BULGARIA
+  examples: |
+    - Republic of Bulgaria
+    - bulgarian
+    - bulgarie
+    - България
+- synonym: BURKINA FASO
+  examples: |
+    - Upper Volta
+- synonym: BURUNDI
+  examples: |
+    - Republic of Burundi
+    - burundian
+    - burundians
+- synonym: CAMBODIA
+  examples: |
+    - Kingdom of Cambodia
+    - Kampuchea
+    - cambodian
+    - កម្ពុជា
+- synonym: CAMEROON
+  examples: |
+    - Republic of Cameroon
+    - Cameroun
+    - cameroonian
+- synonym: CANADA
+  examples: |
+    - Canuckistan
+    - Peoples Republic of Canada
+    - Great White North
+    - Soviet Canuckistan
+    - neighbor to the north
+    - canadian
+    - canadians
+    - canadá
+    - canada
+    - canadaâ
+    - kanada
+- synonym: CAPE VERDE
+  examples: |
+    - Republic of Cape Verde
+- synonym: CENTRAL AFRICAN
+  examples: |
+    - Central African Republic
+    - République centrafricaine
+- synonym: CHAD
+  examples: |
+    - Republic of Chad
+    - Tchad
+    - Chadic
+    - chadian
+    - تشاد
+- synonym: CHILE
+  examples: |
+    - Republic of Chile
+    - chili
+    - chilly
+    - chilli
+    - chilean
+- synonym: CHINA
+  examples: |
+    - People's Republic of China
+    - mainland China
+    - Communist China
+    - Red China
+    - Cathay
+    - chinaware
+    - 中国
+- synonym: COCOS
+  examples: |
+    - Cocos Keeling Islands
+    - Pulu Kokos Keeling
+    - Pulu Kokos
+- synonym: COLOMBIA
+  examples: |
+    - Republic of Colombia
+    - colombian
+    - colombie
+    - columbian
+- synonym: COMOROS
+  examples: |
+    - Federal Islamic Republic of the Comoros
+    - comores
+    - comorian
+    - comore
+    - comoran
+    - comoro
+    - Umoja wa Komori
+- synonym: CONGO
+  examples: |
+    - Democratic Republic of the Congo
+    - République du Congo
+    - Republic of the Congo
+    - Zaire
+    - Belgian Congo
+    - congou
+    - French Congo
+    - congolese
+- synonym: COOK ISLANDS
+  examples: |
+    - Kūki 'Āirani
+- synonym: COSTA RICA
+  examples: |
+    - Republic of Costa Rica
+- synonym: COTE D'IVOIRE
+  examples: |
+    - Ivory Coast
+    - Republic of Cote d'Ivoire
+- synonym: CROATIA
+  examples: |
+    - Republic of Croatia
+    - Hrvatska
+    - croatian
+    - croat
+    - croats
+- synonym: CUBA
+  examples: |
+    - Republic of Cuba
+    - cuban
+    - kubo
+    - kuba
+    - kubba
+    - cubana
+- synonym: CURAÇAO
+  examples: |
+    - curacoa
+    - Netherlands Antilles
+    - curacao
+- synonym: CYPRUS
+  examples: |
+    - Republic of Cyprus
+    - cypriot
+    - cipro
+    - chypre
+    - κύπρος
+    - kypros
+    - cypriots
+    - Kibris
+- synonym: CZECH
+  examples: |
+    - Czechoslovakian
+    - Czechoslovak
+    - hesc
+    - ceh
+    - české
+    - česká
+    - Czechia
+    - Česká republika
+    - Republic of Czechia
+- synonym: DENMARK
+  examples: |
+    - Kingdom of Denmark
+    - Danmark
+    - danish
+    - danemark
+    - demark
+    - danske
+    - danes
+- synonym: DJIBOUTI
+  examples: |
+    - capital of Djibouti
+    - djiboutian
+    - Djibouti
+    - جيبوتي
+    - Jabuuti
+    - Gabuutih
+- synonym: DOMINICAN
+  examples: |
+    - Dominican
+    - Black Friar
+    - Blackfriar
+    - friar preacher
+    - dominicana
+    - dominicaine
+    - dominica
+    - dominicans
+    - Dominican Republic
+    - República Dominicana
+- synonym: ECUADOR
+  examples: |
+    - Republic of Ecuador
+    - equator
+    - ecuadorian
+    - equateur
+    - equador
+    - ecuadoran
+    - ecuadorean
+    - ecuatoriano
+    - ecuadorians
+- synonym: EGYPT
+  examples: |
+    - Arab Republic of Egypt
+    - United Arab Republic
+    - Egyptian Empire
+    - Ancient Egypt
+    - Egyptian civilization
+    - egyptian
+    - egypte
+    - egyptians
+    - مصر
+- synonym: EL SALVADOR
+  examples: |
+    - Republic of El Salvador
+    - Salvador
+- synonym: EQUATORIAL GUINEA
+  examples: |
+    - Republic of Equatorial Guinea
+    - Spanish Guinea
+    - Guiena ecuatorial
+    - Guinée équatoriale
+    - Guiné Equatorial
+    - Guinea
+- synonym: ERITREA
+  examples: |
+    - State of Eritrea
+    - eritrean
+    - ኤርትራ
+    - إرتريا
+- synonym: ESTONIA
+  examples: |
+    - Esthonia
+    - Republic of Estonia
+    - Eesti
+    - estonian
+- synonym: ETHIOPIA
+  examples: |
+    - Federal Democratic Republic of Ethiopia
+    - Yaltopya
+    - Abyssinia
+    - ethiopian
+    - ethiopie
+    - ethiopians
+    - ኢትዮጵያ
+    - Itoophiyaa
+- synonym: FALKLAND ISLANDS
+  examples: |
+    - Falklands
+- synonym: FAROE ISLANDS
+  examples: |
+    - Faeroe Islands
+    - Faroes
+    - Faeroes
+    - Færøerne
+- synonym: FIJI
+  examples: |
+    - Republic of Fiji
+    - fijian
+    - fidji
+    - fijians
+- synonym: FINLAND
+  examples: |
+    - Republic of Finland
+    - Suomi
+    - finnish
+    - finlande
+    - finlandia
+    - suomen
+    - finns
+    - suomessa
+- synonym: FRANCE
+  examples: |
+    - French Republic
+    - french
+    - frança
+    - francie
+    - francia
+    - frankrijk
+    - frankreich
+- synonym: FRENCH GUIANA
+  examples: |
+    - Guyane française
+- synonym: FRENCH POLYNESIA
+  examples: |
+    - French Oceania
+    - Polynésie française
+- synonym: GABON
+  examples: |
+    - Gabonese Republic
+    - Gabun
+    - gabonese
+- synonym: GAMBIA
+  examples: |
+    - The Gambia
+    - Republic of The Gambia
+    - gambian
+    - gambie
+- synonym: GEORGIA
+  examples: |
+    - Empire State of the South
+    - Peach State
+    - Sakartvelo
+    - georgian
+    - georgie
+    - georgians
+    - საქართველო
+- synonym: GERMANY
+  examples: |
+    - Federal Republic of Germany
+    - Deutschland
+    - german
+    - deutschland
+    - allemagne
+    - germania
+    - deutsche
+    - germans
+- synonym: GHANA
+  examples: |
+    - Republic of Ghana
+    - Gold Coast
+    - ghanaian
+    - ghanian
+    - gana
+    - ghany
+    - ghanaians
+- synonym: GIBRALTAR
+  examples: |
+    - Rock of Gibraltar
+    - Calpe
+    - Strait of Gibraltar
+    - STROG
+    - Straits of Gibraltar
+    - Mons Calpe
+- synonym: GREECE
+  examples: |
+    - Hellenic Republic
+    - Ellas
+    - greek
+    - ελλάδα
+    - grèce
+    - greeks
+    - greco
+    - ellada
+    - athens
+    - hellenic
+    - sparta
+- synonym: GREENLAND
+  examples: |
+    - Gronland
+    - Kalaallit Nunaat
+    - greenlandic
+    - halibut
+    - Grønland
+- synonym: GRENADA
+  examples: |
+    - granada
+    - grenade
+    - grenadian
+    - pomegranate
+- synonym: GUADELOUPE
+  examples: |
+    - guadalupe
+- synonym: GUAM
+  examples: |
+    - guuam
+    - Guåhån
+- synonym: GUATEMALA
+  examples: |
+    - Republic of Guatemala
+    - guatemalan
+    - guatemalteca
+- synonym: GUERNSEY
+  examples: |
+    - island of Guernsey
+    - geng
+- synonym: GUINEA
+  examples: |
+    - guinea fowl
+    - ginzo
+    - Guinée
+- synonym: GUINEA-BISSAU
+  examples: |
+    - Republic of Guinea-Bissau
+    - Guine-Bissau
+    - Portuguese Guinea
+    - bissau
+    - bissau-guinean
+    - guinean
+    - Guiné-Bissau
+- synonym: GUYANA
+  examples: |
+    - Co-operative Republic of Guyana
+    - British Guiana
+    - guiana
+    - guyanese
+    - guyane
+    - guayana
+- synonym: HAITI
+  examples: |
+    - Republic of Haiti
+    - haitian
+    - haïti
+    - haitians
+    - haïtien
+    - Ayiti
+- synonym: HEARD ISLAND
+  examples: |
+    - Territory of Heard Island and McDonald Islands
+    - McDonald Islands
+- synonym: HOLY SEE
+  examples: |
+    - The Holy See
+    - State of the Vatican City
+    - Vatican City
+    - Sancta Sedes
+- synonym: HONDURAS
+  examples: |
+    - Republic of Honduras
+    - honduran
+- synonym: HONG KONG
+  examples: |
+    - Hongkong
+    - 香港
+- synonym: HUNGARY
+  examples: |
+    - Republic of Hungary
+    - Magyarorszag
+    - hungarian
+    - hongrie
+    - magyarország
+- synonym: ICELAND
+  examples: |
+    - Republic of Iceland
+    - icelandic
+    - island
+    - lsland
+    - icelanders
+    - Ísland
+- synonym: INDIA
+  examples: |
+    - Republic of India
+    - Bharat
+    - indian
+    - lndia
+    - indie
+    - hindustan
+    - indies
+    - indien
+    - inde
+    - भारत
+- synonym: INDONESIA
+  examples: |
+    - Republic of Indonesia
+    - Dutch East Indies
+    - indonesian
+    - indonesians
+- synonym: IRAN
+  examples: |
+    - Islamic Republic of Iran
+    - Persia
+    - iranian
+- synonym: IRAQ
+  examples: |
+    - Republic of Iraq
+    - Al-Iraq
+    - Irak
+    - iraqi
+    - lraq
+    - iraqis
+    - ایران
+- synonym: IRELAND
+  examples: |
+    - Republic of Ireland
+    - Irish Republic
+    - Eire
+    - Éire
+    - irish
+    - irlande
+    - irland
+    - lreland
+- synonym: ISRAEL
+  examples: |
+    - State of Israel
+    - Yisrael
+    - Zion
+    - Sion
+    - ישראל
+- synonym: ITALY
+  examples: |
+    - Italian Republic
+    - Italia
+    - italian
+    - ltaly
+    - italie
+    - ltalian
+    - italien
+- synonym: JAMAICA
+  examples: |
+    - jamaican
+    - jamaique
+- synonym: JAPAN
+  examples: |
+    - Japanese Islands
+    - Japanese Archipelago
+    - japanese
+    - japans
+    - japon
+    - 日本
+- synonym: JORDAN
+  examples: |
+    - Jordan River
+    - Hashemite Kingdom of Jordan
+    - jordanian
+    - jordon
+    - amman
+    - jourdain
+    - giordano
+    - الأُرْدُن
+- synonym: KAZAKHSTAN
+  examples: |
+    - Republic of Kazakhstan
+    - Kazakstan
+    - Kazakh
+    - Kazak
+    - kazakhistan
+    - kazakhstani
+    - Қазақстан
+- synonym: KENYA
+  examples: |
+    - Republic of Kenya
+    - kenyan
+- synonym: KIRIBATI
+  examples: |
+    - Republic of Kiribati
+    - kir
+- synonym: KUWAIT
+  examples: |
+    - Kuwait City
+    - Koweit
+    - capital of Kuwait
+    - kuwaiti
+    - kuwaitis
+    - الكويت
+- synonym: KYRGYZSTAN
+  examples: |
+    - Kyrgyz Republic
+    - Kirghizia
+    - Kirgizia
+    - Kirghiz
+    - Kirgiz
+    - Kirghizstan
+    - Kirgizstan
+    - kyrgyz
+    - kyrgystan
+    - kyrghyzstan
+    - kyrgyzstani
+    - krygyzstan
+    - kirghiz
+    - Кыргызстан
+    - Киргизия
+- synonym: LAO
+  examples: |
+    - Lao People's Democratic Republic
+    - Laos
+    - ປະຊາຊົນລາວ
+- synonym: LATVIA
+  examples: |
+    - Republic of Latvia
+    - latvian
+    - latvija
+    - lats
+    - latvijas
+    - lithuania
+    - latvians
+- synonym: LEBANON
+  examples: |
+    - Lebanese Republic
+    - lebanese
+    - liban
+    - لبنان
+- synonym: LESOTHO
+  examples: |
+    - Kingdom of Lesotho
+    - Basutoland
+- synonym: LIBERIA
+  examples: |
+    - Republic of Liberia
+    - liberian
+    - liberians
+- synonym: LIBYA
+  examples: |
+    - ليبيا
+- synonym: LIECHTENSTEIN
+  examples: |
+    - Principality of Liechtenstein
+    - lichtenstein
+- synonym: LITHUANIA
+  examples: |
+    - Republic of Lithuania
+    - Lietuva
+    - lithuanian
+    - lituanie
+    - lituania
+    - litauen
+    - litas
+    - lietuvos
+    - latvia
+    - lithuanians
+- synonym: LUXEMBOURG
+  examples: |
+    - Luxembourg-Ville
+    - Luxembourg
+    - Luxemburg
+    - Luxembourg City
+    - capital of Luxembourg
+    - Grand Duchy of Luxembourg
+    - luxemburg
+    - luxembourgish
+    - luxemburgo
+    - luxembourgeois
+    - luxemburgish
+    - Lëtzebuerg
+- synonym: MACAO
+  examples: |
+    - Macau
+    - 澳門
+- synonym: MACEDONIA
+  examples: |
+    - macedonian
+    - makedonia
+    - macedon
+    - Македонија
+- synonym: MADAGASCAR
+  examples: |
+    - Republic of Madagascar
+    - Malagasy Republic
+    - malagasy
+    - madagascan
+    - Madagasikara
+- synonym: MALAWI
+  examples: |
+    - Republic of Malawi
+    - Nyasaland
+    - malawian
+- synonym: MALAYSIA
+  examples: |
+    - Malaya
+    - malaysian
+- synonym: MALDIVES
+  examples: |
+    - Republic of Maldives
+    - Maldive Islands
+    - maldivian
+    - maldive
+- synonym: MALI
+  examples: |
+    - Republic of Mali
+    - French Sudan
+    - malian
+    - malians
+- synonym: MALTA
+  examples: |
+    - Republic of Malta
+    - Malta Island
+    - maltese
+    - malte
+    - malt
+    - maltais
+    - maltas
+- synonym: MARSHALL ISLANDS
+  examples: |
+    - Republic of the Marshall Islands
+    - Aolepān Aorōkin Ṃajeḷ
+- synonym: MARTINIQUE
+  examples: |
+    - martinic
+- synonym: MAURITANIA
+  examples: |
+    - Islamic Republic of Mauritania
+    - Mauritanie
+    - Muritaniya
+    - mauritanian
+    - mauritanie
+    - mauretania
+    - mauritius
+    - mauritanienne
+    - موريتانيا
+- synonym: MAURITIUS
+  examples: |
+    - Republic of Mauritius
+    - maurice
+    - mauritian
+    - mauricio
+    - maurizio
+    - mauritania
+- synonym: MEXICO
+  examples: |
+    - United Mexican States
+    - mexican
+    - méxico
+    - mexicana
+- synonym: MICRONESIA
+  examples: |
+    - Federated States of Micronesia
+    - micronesian
+- synonym: MOLDOVA
+  examples: |
+    - Republic of Moldova
+    - Moldavia
+    - moldovan
+    - moldavian
+    - Молдавия
+- synonym: MONACO
+  examples: |
+    - Principality of Monaco
+- synonym: MONGOLIA
+  examples: |
+    - Mongolian People's Republic
+    - Outer Mongolia
+    - mongolian
+    - mongol
+    - Монгол Улс
+- synonym: MONTENEGRO
+  examples: |
+    - Crna Gora
+    - montenegrin
+    - montenegrins
+    - Црна Гора
+- synonym: MOROCCO
+  examples: |
+    - Kingdom of Morocco
+    - Maroc
+    - Marruecos
+    - Al-Magrib
+    - moroccan
+    - maghreb
+    - maghrib
+    - ⵍⵎⵖⵔⵉⴱ
+    - المغرب
+- synonym: MOZAMBIQUE
+  examples: |
+    - Republic of Mozambique
+    - Mocambique
+    - mozambican
+    - moçambique
+- synonym: MYANMAR
+  examples: |
+    - Union of Burma
+    - Burma
+    - burma
+    - burmese
+    - myanma
+    - μyanmar
+    - မြန်မာ
+- synonym: NAMIBIA
+  examples: |
+    - Republic of Namibia
+    - South West Africa
+    - namibian
+    - namibie
+- synonym: NAURU
+  examples: |
+    - Republic of Nauru
+    - Nauru Island
+    - Pleasant Island
+- synonym: NEPAL
+  examples: |
+    - Kingdom of Nepal
+    - nepalese
+    - nepali
+- synonym: NETHERLANDS
+  examples: |
+    - The Netherlands
+    - Kingdom of The Netherlands
+    - Nederland
+    - Holland
+    - nederlandse
+- synonym: NEW CALEDONIA
+  examples: |
+    - Nouvelle-Calédonie
+- synonym: NICARAGUA
+  examples: |
+    - Republic of Nicaragua
+    - nicaraguan
+    - nicaraguans
+- synonym: NIGER
+  examples: |
+    - Niger River
+    - Republic of Niger
+    - nigerien
+    - nigeria
+    - nightjar
+- synonym: NORTHERN MARIANA ISLANDS
+  examples: |
+    - Northern Marianas
+    - Commonwealth of the Northern Mariana Islands
+    - Sankattan Siha Na Islas Mariånas
+- synonym: NORTH KOREA
+  examples: |
+    - Democratic People's Republic of Korea
+    - 조선민주주의인민공화국
+- synonym: NORWAY
+  examples: |
+    - Kingdom of Norway
+    - Norge
+    - Noreg
+    - norwegian
+    - norvège
+- synonym: OMAN
+  examples: |
+    - Sultanate of Oman
+    - Muscat and Oman
+    - omani
+    - muscat
+    - سلطنة عُمان
+- synonym: PAKISTAN
+  examples: |
+    - Islamic Republic of Pakistan
+    - West Pakistan
+    - pakistani
+    - pakistanis
+    - پاکستان
+- synonym: PALAU
+  examples: |
+    - Republic of Palau
+    - palauan
+    - baalu
+- synonym: PALESTINE
+  examples: |
+    - Palestinian Territory
+- synonym: PANAMA
+  examples: |
+    - Republic of Panama
+    - panamanian
+    - panamá
+    - panam
+- synonym: PAPUA NEW GUINEA
+  examples: |
+    - Independent State of Papua New Guinea
+- synonym: PARAGUAY
+  examples: |
+    - Republic of Paraguay
+    - paraguayan
+- synonym: PERU
+  examples: |
+    - Republic of Peru
+    - peruvian
+    - perú
+    - peruano
+- synonym: PHILIPPINES
+  examples: |
+    - Republic of the Philippines
+    - Philippine Islands
+    - philippine
+    - filipino
+    - phillippines
+    - filipinos
+- synonym: POLAND
+  examples: |
+    - Republic of Poland
+    - Polska
+    - polish
+    - polski
+    - pologne
+    - polen
+    - polsce
+    - polska
+    - polonia
+    - zloty
+    - pollen
+- synonym: PORTUGAL
+  examples: |
+    - Portuguese Republic
+    - portuguese
+    - portugese
+- synonym: PUERTO RICO
+  examples: |
+    - Porto Rico
+    - Commonwealth of Puerto Rico
+- synonym: QATAR
+  examples: |
+    - State of Qatar
+    - Katar
+    - State of Katar
+    - qatari
+    - قطر
+- synonym: RÉUNION
+  examples: |
+    - La Réunion
+    - La Reunion
+    - Reunion
+- synonym: ROMANIA
+  examples: |
+    - Roumania
+    - Rumania
+    - romanian
+    - roumanie
+    - roumania
+    - românia
+    - româniei
+    - romanians
+    - román
+- synonym: RUSSIA
+  examples: |
+    - Russian Federation
+    - Soviet Union
+    - Union of Soviet Socialist Republics
+    - USSR
+    - Russian Soviet Federated Socialist Republic
+    - Soviet Russia
+    - Россия
+- synonym: RWANDA
+  examples: |
+    - Rwandese Republic
+    - Ruanda
+    - rwandan
+    - rwandese
+    - rwandans
+- synonym: SAINT HELENA
+  examples: |
+    - Saint Helena, Ascension and Tristan da Cunha
+- synonym: SAINT KITTS
+  examples: |
+    - Saint Kitts and Nevis
+- synonym: SAINT LUCIA
+  examples: |
+    - St. Lucia
+- synonym: SAINT MARTIN
+  examples: |
+    - St. Martin
+    - Saint Maarten
+    - St. Maarten
+- synonym: SAINT PIERRE
+  examples: |
+    - Saint Pierre and Miquelon
+    - Saint-Pierre-et-Miquelon
+- synonym: SAINT VINCENT
+  examples: |
+    - St. Vincent
+    - Saint Vincent and the Grenadines
+- synonym: SAMOA
+  examples: |
+    - Independent State of Samoa
+    - Western Samoa
+    - Samoa i Sisifo
+    - Samoan Islands
+    - samoan
+- synonym: SAN MARINO
+  examples: |
+    - capital of San Marino
+- synonym: SAO TOME
+  examples: |
+    - Sao Tome and Principe
+    - São Tomé e Príncipe
+- synonym: SAUDI ARABIA
+  examples: |
+    -  Kingdom of Saudi Arabia
+    - السعودية
+- synonym: SENEGAL
+  examples: |
+    - Republic of Senegal
+    - sénégal
+    - senegalese
+- synonym: SERBIA
+  examples: |
+    - Srbija
+    - serbian
+    - serb
+    - serbie
+    - serbs
+    - Србија
